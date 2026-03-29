@@ -2,9 +2,7 @@
 
 AI Money Mentor is an intelligent financial planning system that goes beyond calculations to provide personalized insights, risk detection, and financial guidance.
 
----
-
-## 🚀 Features
+##  Features
 
 - 💰 Financial Health Score (6 dimensions)
 - 🔥 FIRE (Retirement) Planner
@@ -15,23 +13,18 @@ AI Money Mentor is an intelligent financial planning system that goes beyond cal
 - 🧠 AI Mentor Insights (behavior-based advice)
 - ⚠️ Financial Validation System (prevents bad decisions)
 
----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML, CSS, JavaScript
 - Chart.js
 
----
-
-## ▶️ How to Run
+##  How to Run
 
 1. Download the repository  
 2. Open `index.html` in your browser  
 
----
-
-## 🧠 Key Innovation
+##  Key Innovation
 
 Unlike traditional financial tools, AI Money Mentor:
 
@@ -40,13 +33,10 @@ Unlike traditional financial tools, AI Money Mentor:
 - Provides personalized recommendations  
 - Validates and prevents incorrect inputs  
 
----
-
-## 📊 Example Insight
+##  Example Insight
 
 > "Your SIP exceeds your surplus — this is not sustainable long-term."
 
----
 
 ## 📌 Future Scope
 
