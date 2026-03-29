@@ -1,8 +1,6 @@
 # 🧠 AI Money Mentor
 
 AI Money Mentor is an intelligent financial planning system that goes beyond calculations to provide personalized insights, risk detection, and financial guidance.
-![Uploading image.png…]()
-
 
 
 ##  Features
